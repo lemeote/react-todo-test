@@ -1,0 +1,10 @@
+export const HEADER_TITLE = 'My Tasks';
+export const TODO_LIST = 'LIST';
+export const ADD = 'Add';
+export const UPDATE = '更新';
+export const REMOVE = '削除';
+export const FINISH = '完了';
+export const UNFINISH = '未完了';
+export const TODO_TITLE = 'タイトル';
+export const TODO_CONTENT = '内容';
+export const NON_DISPLAY = 'No item';
